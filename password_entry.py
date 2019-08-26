@@ -1,8 +1,6 @@
 """William Burling"""
 MIN_LENGTH = 1
 MAX_LENGTH = 10
-SPECIAL_CHARS_REQUIRED = False
-SPECIAL_CHARACTERS = "!@#$%^&*()_-=+`~,./'[]<>?{}|\\"
 
 
 def main():
